@@ -1,0 +1,13 @@
+matplotlib
+pandas
+numpy
+PIL
+pygame
+keras
+pytorch 
+pykyra
+pyglet
+kivy
+
+
+
