@@ -1,7 +1,6 @@
 matplotlib
 pandas
 numpy
-PIL
 pygame
 keras
 pytorch 
