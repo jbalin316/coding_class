@@ -4,9 +4,6 @@ numpy
 pygame
 keras
 pytorch 
-pykyra
-pyglet
-kivy
 
 
 
